@@ -1,0 +1,117 @@
+
+Nov 03, 2016 10:59:44 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:00:05 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:00:05 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:13:36 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:14:13 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:14:33 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:14:33 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:15:00 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:15:20 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:15:20 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:22:34 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:22:53 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:22:53 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:23:45 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:24:08 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:24:08 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:24:55 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:25:14 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:25:14 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:26:56 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:27:17 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:27:17 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:27:50 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:28:02 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:28:02 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:31:55 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:32:19 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:32:19 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:33:08 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:33:26 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:33:26 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:34:26 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:35:13 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:35:13 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:35:22 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:36:04 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:36:52 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:37:54 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:37:54 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:39:19 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:39:44 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:39:48 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:44:45 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:45:07 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:45:32 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:45:32 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 11:49:58 AM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 11:50:13 AM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 11:50:13 AM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 12:15:50 PM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 12:17:23 PM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 12:17:42 PM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 12:17:42 PM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 12:17:51 PM TicTacToeServer <init>
+INFO: Logging
+Nov 03, 2016 12:25:39 PM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 12:25:39 PM TicTacToeServer$Player run
+INFO: Game over for client who won
+Nov 03, 2016 12:25:40 PM TicTacToeServer$Player otherPlayerMoved
+INFO: Game over for client who lost
+Nov 03, 2016 12:25:40 PM TicTacToeServer$Player run
+INFO: Game over for client who won
